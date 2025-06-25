@@ -4,6 +4,12 @@
 A desktop productivity application built with **Python** that lets you manage your to-do list using your **voice**. It supports **speech-to-text**, **checkboxes**, **editing**, **deleting**, and **cloud sync** with a Flask + MongoDB backend. Includes offline **text-to-speech** to read tasks aloud.
 
 ---
+## screenshots
+
+![image](https://github.com/user-attachments/assets/88bc812f-2f29-43a0-812e-1bfdd6751f6d)
+![image](https://github.com/user-attachments/assets/5e4b1a2e-327a-4074-b0a8-fb6a0aed77a4)
+
+---
 
 ## 🚀 Features
 
